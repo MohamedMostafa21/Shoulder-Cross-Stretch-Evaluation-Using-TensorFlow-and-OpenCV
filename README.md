@@ -39,9 +39,9 @@ Gathering Data using opencv and python for correct and incorrect classes with a 
 ### real_time_predict
 The main predction that opens a window and says if it's correct or incorrect.
 ### testing.py
-To test the data image by image to improve the model based on error and result analysis.
+To test the data by each image to improve the model, based on error and result analysis.
 ### evaluate_model.py
-Model evaluation for error and result analysis. including test accuracy and confusion matrix.
+Model evaluation for error and result analysis, and it includes test accuracy and confusion matrix and f1 scores and diffrent metrics.
 
 
 
