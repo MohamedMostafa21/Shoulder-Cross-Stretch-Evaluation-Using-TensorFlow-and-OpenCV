@@ -34,5 +34,15 @@ To exit the ongoing detection window, press 'q'<br>
 The GUI app that allows you to start detection or exit the model.
 ### train_model.py
 The main model training script for Shoulder Cross Stretch Exercise.
-  
+### gathering_data
+Gathering Data using opencv and python for correct and incorrect classes with a timer.
+### real_time_predict
+The main predction that opens a window and says if it's correct or incorrect.
+### testing.py
+To test the data image by image to improve the model based on error and result analysis.
+### evaluate_model.py
+Model evaluation for error and result analysis. including test accuracy and confusion matrix.
+
+
+
 
